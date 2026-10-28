@@ -1,0 +1,6 @@
+{
+  "name": "Movement",
+  "description": "Person movement register for recording entry, exit, movement history, outside duration, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
